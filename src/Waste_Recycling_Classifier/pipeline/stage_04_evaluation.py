@@ -13,3 +13,15 @@ class EvaluationPipeline:
         evaluation.evaluation()
         evaluation.save_score()
 
+
+STAGE_NAME = "Evaluation stage"
+
+try:
+    logger.info(f"*******************")
+    logger.info(f">>>>>> stage {STAGE_NAME} started <<<<<<")
+    obj = EvaluationPipeline()
+    obj.main()
+    logger.info(f">>>>>> stage {STAGE_NAME} completed <<<<<<\n\nx==========x")
+except Exception as e:
+    logger.exception(e)
+    raise e
