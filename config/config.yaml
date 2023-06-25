@@ -15,3 +15,7 @@ prepare_callbacks:
   root_dir: datafacts/prepare_callbacks
   tensorboard_root_log_dir: datafacts/prepare_callbacks/tensorboard_log_dir
   checkpoint_model_filepath: datafacts/prepare_callbacks/checkpoint_dir/model.h5
+
+training:
+  root_dir: datafacts/training
+  trained_model_path: datafacts/training/model.h5
