@@ -5,3 +5,8 @@ data_ingestion:
   source_URL: https://gitlab.com/gssrenathkumar2002/dataset/-/raw/main/Waste_Recycling_Classification_Dataset.zip
   local_data_file: datafacts/data_ingestion/data.zip
   unzip_dir: datafacts/data_ingestion
+
+prepare_base_model:
+  root_dir: datafacts/prepare_base_model
+  base_model_path: datafacts/prepare_base_model/base_model.h5
+  updated_base_model_path: datafacts/prepare_base_model/base_model_updated.h5
