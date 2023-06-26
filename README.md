@@ -48,6 +48,7 @@ To use the waste classification system, you can run the provided `app.py` file. 
 
 ```bash
 python app.py
+```
 The application will prompt you to provide an image path or directory containing waste images. It will then classify the images and display the results.
 
 Contributing
