@@ -1,4 +1,7 @@
 # Waste Classification Project
+## Network Architecture
+
+![Network Architecture]("https://www.mdpi.com/sustainability/sustainability-14-10226/article_deploy/html/images/sustainability-14-10226-g001.png")
 
 This project aims to address the significant problem of waste management by developing a waste classification system. The system utilizes deep learning techniques and a diverse dataset of waste images to accurately classify different types of waste materials.
 
