@@ -10,7 +10,6 @@ This project aims to address the significant problem of waste management by deve
 - [Usage](#usage)
 - [Contributing](#contributing)
 - [License](#license)
-
 ## Dataset
 
 The dataset used for training and evaluation consists of a total of 22,564 images. These images were divided into two sets: a training set containing 22,564 images and a testing set containing 2,513 images. The dataset encompasses a wide range of different types of waste items, providing a diverse and comprehensive representation of the waste materials encountered in real-world scenarios.
