@@ -27,20 +27,25 @@ To further enhance the performance and robustness of the model, data augmentatio
 
 To get started with the project, follow these steps:
 
+
+ ```bash
 1. Clone the project repository:
 git clone https://github.com/gssrenathkumar/Waste_Recycling_Classification.git
-
-2. Create a virtual environment using conda:
+```
+```bash
+3. Create a virtual environment using conda:
 conda create -n waste_classification python=3.8 -y
+```
+```bash
 
-
-3. Activate the virtual environment:
+4. Activate the virtual environment:
 conda activate waste_classification
+```
+```bash
 
-
-4. Install the required dependencies:
+5. Install the required dependencies:
 pip install -r requirements.txt
-
+```
 
 ## Usage
 
