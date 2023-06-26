@@ -1,7 +1,4 @@
 # Waste Classification Project
-## Network Architecture
-
-![Waste Classification]([https://raw.githubusercontent.com/username/repository/main/images/waste_classification.png](https://github.com/gssrenathkumar/Waste_Recycling_Classification/blob/main/waste_image.png?raw=true))
 
 This project aims to address the significant problem of waste management by developing a waste classification system. The system utilizes deep learning techniques and a diverse dataset of waste images to accurately classify different types of waste materials.
 
